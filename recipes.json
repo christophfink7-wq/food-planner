@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Gemüsenudeln",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Pasta", "Mixed Vegetables"]
+  },
+  {
+    "name": "Taco Bowl mit scharfem Faschierten",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Minced Meat", "Taco Spice", "Sambal Oelek", "Salad", "Skyr"]
+  },
+  {
+    "name": "Pellkartoffeln",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Potatoes", "Butter"]
+  },
+  {
+    "name": "Spinatknödel",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Spinach", "Bread", "Eggs"]
+  },
+  {
+    "name": "Käsespätzle",
+    "category": "Vegetarian",
+    "is_work_friendly": "No",
+    "ingredients": ["Spätzle", "Cheese", "Onions"]
+  },
+  {
+    "name": "Chicken Wings",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Chicken Wings", "Spices"]
+  },
+  {
+    "name": "Süßkartoffel Wedges",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Sweet Potatoes", "Oil", "Spices"]
+  },
+  {
+    "name": "Knackerwurst mit Spinat und Röstkartoffeln",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Knacker Sausage", "Spinach", "Potatoes"]
+  },
+  {
+    "name": "Ofengemüse",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Mixed Vegetables", "Olive Oil"]
+  },
+  {
+    "name": "Spaghetti mit Pesto",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Spaghetti", "Pesto"]
+  },
+  {
+    "name": "Fleisch mit Nudeln und Gorgonzolasauce",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Meat", "Pasta", "Gorgonzola"]
+  },
+  {
+    "name": "Gemüse mit Kartoffeln und Pesto",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Vegetables", "Potatoes", "Pesto"]
+  },
+  {
+    "name": "Gselchtes mit Kraut und Püree",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Smoked Meat", "Sauerkraut", "Mashed Potatoes"]
+  },
+  {
+    "name": "Thunfischnudeln",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Pasta", "Tuna", "Cream"]
+  },
+  {
+    "name": "Wraps mit Dönerfleisch",
+    "category": "Wrap",
+    "is_work_friendly": "No",
+    "ingredients": ["Wraps", "Doner Meat", "Salad"]
+  },
+  {
+    "name": "Flammkuchen Toast",
+    "category": "Snack",
+    "is_work_friendly": "No",
+    "ingredients": ["Toast Bread", "Crème Légère", "Onions", "Ham"]
+  },
+  {
+    "name": "Tomaten Mozzarella",
+    "category": "Salad",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Tomatoes", "Mozzarella", "Basil"]
+  },
+  {
+    "name": "Wraps",
+    "category": "Wrap",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Wraps", "Salad", "Sauce"]
+  },
+  {
+    "name": "Bröselkarfiol",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Cauliflower", "Breadcrumbs", "Eggs"]
+  },
+  {
+    "name": "Fisch mit Gemüse und Feta",
+    "category": "Fish",
+    "is_work_friendly": "No",
+    "ingredients": ["Fish", "Vegetables", "Feta"]
+  },
+  {
+    "name": "Risotto",
+    "category": "Rice",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Rice", "Broth", "Cheese"]
+  },
+  {
+    "name": "Berner Würstel",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Sausages", "Bacon", "Cheese"]
+  },
+  {
+    "name": "Reisfleisch",
+    "category": "Meat",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Rice", "Meat", "Tomatoes"]
+  },
+  {
+    "name": "Wurstsalat",
+    "category": "Salad",
+    "is_work_friendly": "No",
+    "ingredients": ["Sausage", "Onions", "Vinegar"]
+  },
+  {
+    "name": "Wurstnudeln",
+    "category": "Pasta",
+    "is_work_friendly": "No",
+    "ingredients": ["Pasta", "Sausage", "Eggs"]
+  },
+  {
+    "name": "Frittatensuppe",
+    "category": "Soup",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Pancake Strips", "Broth"]
+  },
+  {
+    "name": "Kartoffelgulasch",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Potatoes", "Paprika", "Onions"]
+  },
+  {
+    "name": "Wedges mit Salat",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Potato Wedges", "Salad"]
+  },
+  {
+    "name": "Fleischkäse angebraten",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Leberkäse", "Oil"]
+  },
+  {
+    "name": "Salatwrap",
+    "category": "Wrap",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Wraps", "Salad", "Sauce"]
+  },
+  {
+    "name": "Saure Wurst",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Sausage", "Vinegar", "Onions"]
+  },
+  {
+    "name": "Griechischer Salat",
+    "category": "Salad",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Tomatoes", "Cucumber", "Feta", "Olives"]
+  },
+  {
+    "name": "Grießnockerlsuppe",
+    "category": "Soup",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Semolina Dumplings", "Broth"]
+  },
+  {
+    "name": "Gnocchi Tomate Mozzarella Rahm",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Gnocchi", "Tomatoes", "Mozzarella", "Cream"]
+  },
+  {
+    "name": "Lasagne",
+    "category": "Pasta",
+    "is_work_friendly": "No",
+    "ingredients": ["Pasta Sheets", "Minced Meat", "Cheese"]
+  },
+  {
+    "name": "Palatschinken",
+    "category": "Dessert",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Flour", "Milk", "Eggs"]
+  },
+  {
+    "name": "Schinken Käse Toast",
+    "category": "Snack",
+    "is_work_friendly": "No",
+    "ingredients": ["Toast", "Ham", "Cheese"]
+  },
+  {
+    "name": "Frankfurter",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Frankfurter Sausage"]
+  },
+  {
+    "name": "Weißwürstel mit Breze",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Weisswurst", "Pretzel"]
+  },
+  {
+    "name": "Zucchini Pasta",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Pasta", "Zucchini"]
+  },
+  {
+    "name": "Schinkenrahmspätzle",
+    "category": "Pasta",
+    "is_work_friendly": "No",
+    "ingredients": ["Spätzle", "Ham", "Cream"]
+  },
+  {
+    "name": "Hendlhaxerl",
+    "category": "Meat",
+    "is_work_friendly": "No",
+    "ingredients": ["Chicken Legs", "Spices"]
+  },
+  {
+    "name": "Feuertopf",
+    "category": "Stew",
+    "is_work_friendly": "No",
+    "ingredients": ["Meat", "Beans", "Chili"]
+  },
+  {
+    "name": "Folienkartoffel",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Potatoes", "Butter"]
+  },
+  {
+    "name": "Strudel",
+    "category": "Dessert",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Strudel Dough", "Filling"]
+  },
+  {
+    "name": "Spinat Tomaten Nudeln",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Pasta", "Spinach", "Tomatoes"]
+  },
+  {
+    "name": "Thunfischsalat",
+    "category": "Salad",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Tuna", "Salad", "Corn"]
+  },
+  {
+    "name": "Linsencurry",
+    "category": "Vegetarian",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Lentils", "Coconut Milk", "Curry Spices"]
+  },
+  {
+    "name": "Couscoussalat",
+    "category": "Salad",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Couscous", "Vegetables", "Olive Oil"]
+  },
+  {
+    "name": "Tortellini",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Tortellini", "Sauce"]
+  },
+  {
+    "name": "Gnocchi mit Tomaten und Hüttenkäse",
+    "category": "Pasta",
+    "is_work_friendly": "Yes",
+    "ingredients": ["Gnocchi", "Tomatoes", "Cottage Cheese"]
+  },
+  {
+    "name": "Chili con Carne",
+    "category": "Stew",
+    "is_work_friendly": "No",
+    "ingredients": ["Minced Meat", "Beans", "Tomatoes", "Chili"]
+  }
+]
